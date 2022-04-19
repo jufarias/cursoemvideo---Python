@@ -33,6 +33,7 @@ elif pc == 1: #pc jogou PAPEL
         print('EMPATE')
     elif jogador == 2:
         print('JOGADOR VENCEU!')
+        
     else:
         print('JOGADA INVÁLIDA!')
 elif pc == 2: #pc jogou TESOURA
